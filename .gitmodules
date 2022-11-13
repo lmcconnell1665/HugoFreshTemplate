@@ -1,0 +1,3 @@
+[submodule "perfect-planner/themes/fresh"]
+	path = perfect-planner/themes/fresh
+	url = https://github.com/StefMa/hugo-fresh.git
